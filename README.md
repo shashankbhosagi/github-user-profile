@@ -1,4 +1,4 @@
-#Did something crazy 🤪😂
+# Did something crazy 🤪😂
 
 Just wrote a shell script I was wondering will this work. I had to try out, I ran it till 50 it run easily and smoothly 😗...
 
